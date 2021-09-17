@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF : -1,Animal Planet
 http://31.220.41.88:8081/live/ap9.stream/playlist.m3u8
-#EXTINF : -1,Disney jr (Hindi)
-http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
