@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="fm" group-title="",fm
 https://www.desizoneradio.com/relay2
-#EXTINF:-1 tvg-id="bv" group-title="",bv
+#EXTINF:-2 tvg-id="bv" group-title="",bv
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
